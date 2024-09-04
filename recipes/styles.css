@@ -1,0 +1,31 @@
+div.title {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: yellow;
+    text-align: center;
+}
+
+div.image {
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    background-color: pink;
+    font-weight: 700;
+}
+
+.description {
+    color: rgb(255, 98, 0);
+}
+
+div.list {
+    color: rgb(13, 5, 154);
+}
+
+.description,
+.list {
+    font-family:Arial, Helvetica, sans-serif
+}
